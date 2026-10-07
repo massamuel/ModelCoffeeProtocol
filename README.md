@@ -82,7 +82,7 @@ Verified locally: six tests passed, dependency checks passed, and the two-server
 
 Explain why MCP wraps business tasks rather than exposing every HTTP endpoint; why credentials stay outside model context; why comparing landed cost matters; and how schema tests differ from agent behavior evaluations.
 
-Built using the documented [FastMCP client/server interfaces](https://gofastmcp.com/clients/client) and [Pydantic AI MCP integration](https://ai.pydantic.dev/mcp/client/).
+Built based on the following the documentation [FastMCP client/server interfaces](https://gofastmcp.com/clients/client) and [Pydantic AI MCP integration](https://ai.pydantic.dev/mcp/client/).
 
 ## No-key walkthrough
 
