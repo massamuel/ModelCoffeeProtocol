@@ -1,0 +1,1 @@
+"""ModelCoffeeProtocol starter application."""
